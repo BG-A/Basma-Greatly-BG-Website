@@ -1,0 +1,65 @@
+---
+title: "BG-Website-MBA"
+---
+format: html
+page-layout: full
+theme: cosmo
+toc: false
+---
+
+![Basma Elgreatly](headshot.jpg){width=150px style="border-radius: 75px; float: right; margin-left: 20px;"} 
+
+# About Me
+
+
+I’m an **MBA candidate specializing in Business Analytics** at University Canada West, with 14+ years of experience in **Banking, Marketing, and Customer Service**. I’m passionate about transforming business challenges into actionable insights using AI and data analysis. Currently working in healthcare marketing and freelance marketing manager in educational institute, Alberta- Canada, I bring a unique mix of strategic leadership and technical know-how.
+
+:::**
+---
+
+# Education
+
+- **MBA, Business Analytics** – *University Canada West*, Canada (Expected Dec 2025) 
+- **MBA, Banking ** - *Arab Academy for Financial & Managerial Science* 
+- **Bachelor of Business Administration, marketing** – *Alexandria University*, Egypt (2010)
+
+---
+
+# Professional Experience
+
+### Marketing Manager – *ADG Business Academy* (April 2025–Present)  
+- Spearhead digital marketing campaigns for a leading Canadian training provider specializing in Business Analysis, Project Management. 
+- Develop and execute B2B outreach strategies targeting professionals and organizations across Alberta and British Columbia. 
+- Optimize content and campaigns for SEO, social media, and email marketing channels to enhance lead generation and engagement. 
+- Collaborate on course branding, digital strategy, and performance analytics using data visualization and tracking tools. 
+- Apply project management methodologies to align marketing goals with training program outcomes. 
+### Marketing Outreach Coordinator Fraser Cardiology Associates, British Columbia, Canada Sep 2024 – Present 
+ 
+- Developing Comprehensive Marketing Plans: Crafting and implementing marketing strategies to enhance the public image of Fraser Cardiology Associates and attract new patients, utilizing data analytics to inform decision-making. 
+- Outreach Initiatives: Building strong partnerships with family doctors and clinics to facilitate patient referrals, ensuring a collaborative approach that prioritizes patient needs. 
+- Community Engagement: Promoting cardiology services through targeted outreach campaigns and educational workshops, aimed at increasing awareness of cardiovascular health and preventive care. 
+- Digital Strategy Management: Overseeing social media initiatives and online presence to enhance visibility and 
+- foster engagement with both current and potential patients, focusing on customer-centric communication. 
+- Performance Analysis: Leveraging feedback and performance metrics to evaluate the effectiveness of marketing efforts, continuously improving strategies based on data-driven insights. 
+- Cross-Functional Collaboration: Working closely with healthcare teams to ensure consistent messaging and a unified approach to patient care and outreach initiatives. 
+
+### Customer Service Manager – *Banque Du Caire, Egypt* (2021–2024")
+- Managed a team of 10+, achieving 95%+ customer satisfaction  
+- Implemented customer experience strategies that reduced churn
+
+# Key Skills
+- Business & Data Analysis**: Excel, Power BI, Tableau, SQL, Python, Quarto, R
+- Marketing Strategy**: Branding, Campaign Management, Social Media  
+- Leadership**: Team Coaching, Outreach, B2B Negotiation  
+- Tools & Tech**: Canva, Google Analytics, CRM Platforms, QuickBooks, T24
+# Contacts
+- 📧 **Email**: basma.m.elgreatly@email.com  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/basma-elgreatly/] 
+
+<footer style="font-size: 0.8em; text-align: center; margin-top: 2em;">
+Made with ❤️ using Quarto | © 2025 Basma Khaled
+</footer>
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
