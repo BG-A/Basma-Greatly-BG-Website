@@ -1,6 +1,8 @@
+yaml
+
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Basma Khaled – MBA Portfolio"
@@ -10,6 +12,7 @@ format:
   html:
     theme: cosmo
     toc: false
+
 
 
 
