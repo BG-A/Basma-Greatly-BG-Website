@@ -1,21 +1,16 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "BG-Website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Basma Khaled – MBA Portfolio"
+  navbar: false
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: cosmo
+    toc: false
+
 
 
 
