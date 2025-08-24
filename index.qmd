@@ -1,7 +1,7 @@
 ---
 title: "BG-Website-MBA"
 ---
-format: html
+format:
 page-layout: full
 theme: cosmo
 toc: false
@@ -48,16 +48,14 @@ I’m an **MBA candidate specializing in Business Analytics** at University Cana
 - Implemented customer experience strategies that reduced churn
 
 # Key Skills
-- Business & Data Analysis**: Excel, Power BI, Tableau, SQL, Python, Quarto, R
-- Marketing Strategy**: Branding, Campaign Management, Social Media  
-- Leadership**: Team Coaching, Outreach, B2B Negotiation  
-- Tools & Tech**: Canva, Google Analytics, CRM Platforms, QuickBooks, T24
+- Business & Data Analysis: Excel, Power BI, Tableau, SQL, Python, Quarto, R
+- Marketing Strategy: Branding, Campaign Management, Social Media   - Leadership: Team Coaching, Outreach, B2B Negotiation - Tools & Tech: Canva, Google Analytics, CRM Platforms, QuickBooks, T24
 # Contacts
 - 📧 **Email**: basma.m.elgreatly@email.com  
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/basma-elgreatly/] 
 
 <footer style="font-size: 0.8em; text-align: center; margin-top: 2em;">
-Made with ❤️ using Quarto | © 2025 Basma Khaled
+Made with ❤️ using Quarto | © 2025 Basma Elgreatly
 </footer>
 
 This is a Quarto website.

@@ -1,19 +1,33 @@
-yaml
-
 project:
   type: website
   output-dir: docs
 
 website:
-  title: "Basma Khaled – MBA Portfolio"
-  navbar: false
+  title: "Basma Khaled — MBA Portfolio"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Skills & Certifications"
+        href: skills.qmd
+      - text: "Leadership"
+        href: leadership.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "Download CV (PDF)"
+        href: assets/docs/Basma_Khaled_Resume.pdf
 
 format:
   html:
     theme: cosmo
-    toc: false
-
-
-
-
-
+    css: styles.css
+    toc: true
+      - text: "Reflection"
+        href: reflection.qmd

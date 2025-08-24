@@ -1,0 +1,34 @@
+---
+title: "Projects & Case Studies"
+---
+
+# Projects & Case Studies
+
+## 1. Customer Churn Analysis — Tableau
+**Goal:** Analyze customer churn in a retail bank to identify at-risk segments.  
+**Process:**  
+- Collected and cleaned transactional data.  
+- Performed exploratory data analysis (EDA) and built churn segmentation models.  
+- Designed an interactive Tableau dashboard for business users.  
+**Outcome:**  
+- Generated an **actionable retention plan** with prioritized customer lists.  
+- Delivered insights that informed customer success strategies.  
+**Proof:** *(Add a link to your Tableau Public dashboard or screenshot here)*  
+
+---
+
+## 2. Netflix Ad Strategy — MBA Assignment
+**Goal:** Develop an advertising campaign for Netflix’s ad-supported streaming tier.  
+**Process:**  
+- Used LLMs (GPT, Claude, Gemini) to brainstorm ad ideas.  
+- Rewrote outputs in my own voice, validated with **academic sources** (APA).  
+- Compared different approaches for segmenting ad audiences.  
+**Outcome:**  
+- Produced a **strategic ad plan** grounded in both AI support and academic research.  
+- Submitted as part of MBA coursework (2025).  
+**Proof:** *(Insert link to PDF or Quarto assignment repo if available)*  
+
+---
+
+## 3. Costco Smart Shelves (IoT/RFID) — Risk Plan & Value Chain Analysis
+**Goal:** Evaluate the impact of RFID-based “s

@@ -1,0 +1,43 @@
+---
+title: "Skills & Certifications"
+---
+
+# Core Skills
+
+<span class="badge">Business Analytics</span>  
+<span class="badge">B2B Marketing</span>  
+<span class="badge">Customer Experience</span>  
+<span class="badge">Digital Transformation</span>  
+<span class="badge">Financial Services</span>  
+<span class="badge">Community Outreach</span>  
+<span class="badge">Project Coordination</span>  
+
+---
+
+# Technical Proficiency (Self-Assessed)
+
+<div class="progress" aria-label="Excel proficiency">
+  <span style="width: 90%"></span>
+</div> Excel — Advanced  
+
+<div class="progress" aria-label="Tableau proficiency">
+  <span style="width: 85%"></span>
+</div> Tableau — Advanced  
+
+<div class="progress" aria-label="Power BI proficiency">
+  <span style="width: 75%"></span>
+</div> Power BI — Intermediate  
+
+<div class="progress" aria-label="SQL proficiency">
+  <span style="width: 70%"></span>
+</div> SQL — Intermediate  
+
+<div class="progress" aria-label="Python proficiency">
+  <span style="width: 65%"></span>
+</div> Python — Intermediate  
+
+---
+
+# Certifications
+
+- Google Data Analytics (Co
