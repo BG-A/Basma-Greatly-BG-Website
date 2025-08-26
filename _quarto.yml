@@ -1,6 +1,16 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - about.qmd
+    - resume.qmd
+    - projects.qmd
+    - skills.qmd
+    - leadership.qmd
+    - contact.qmd
+    - reflection.qmd
+    - appendix/index.qmd
 
 website:
   title: "Basma Khaled — MBA Portfolio"
@@ -20,14 +30,20 @@ website:
         href: leadership.qmd
       - text: "Contact"
         href: contact.qmd
+      - text: "Reflection"
+        href: reflection.qmd
+      - text: "Appendix"
+        href: appendix/index.qmd
     right:
       - text: "Download CV (PDF)"
-        href: assets/docs/Basma_Khaled_Resume.pdf
+        href: Appendix.pdf
+   # change or create this file as noted below
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
-      - text: "Reflection"
-        href: reflection.qmd
+    link-external-newwindow: true
+    smooth-scroll: true
+

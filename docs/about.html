@@ -67,6 +67,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -98,29 +99,37 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resume.qmd"> 
+    <a class="nav-link" href="./resume.html"> 
 <span class="menu-text">Resume</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.qmd"> 
+    <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./skills.qmd"> 
+    <a class="nav-link" href="./skills.html"> 
 <span class="menu-text">Skills &amp; Certifications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./leadership.qmd"> 
+    <a class="nav-link" href="./leadership.html"> 
 <span class="menu-text">Leadership</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.qmd"> 
+    <a class="nav-link" href="./contact.html"> 
 <span class="menu-text">Contact</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./reflection.html"> 
+<span class="menu-text">Reflection</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./appendix/index.html"> 
+<span class="menu-text">Appendix</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./assets/docs/Basma_Khaled_Resume.pdf"> 
+    <a class="nav-link" href="./Appendix.pdf"> 
 <span class="menu-text">Download CV (PDF)</span></a>
   </li>  
 </ul>
@@ -250,6 +259,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -568,4 +582,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

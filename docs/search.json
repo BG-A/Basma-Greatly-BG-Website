@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Core Skills\nBusiness Analytics\nB2B Marketing\nCustomer Experience\nDigital Transformation\nFinancial Services\nCommunity Outreach\nProject Coordination\n\n\n\nTechnical Proficiency (Self-Assessed)\n\n\n\nExcel — Advanced\n\n\n\nTableau — Advanced\n\n\n\nPower BI — Intermediate\n\n\n\nSQL — Intermediate\n\n\n\nPython — Intermediate\n\n\n\nCertifications\n\nGoogle Data Analytics (Co"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Specialized in B2B marketing strategies for the education sector.\n\nEnhanced the academy’s online presence through LinkedIn, course promotion, and digital campaigns.\n\n\n\n\n\nBuilt clinic partnerships and expanded Holter program placements across multiple sites.\n\nLed branding and outreach campaigns to increase patient referrals.\n\nCoordinated community engagement initiatives to strengthen awareness.\n\n\n\n\n\nManaged B2B marketing initiatives for a digital learning platform.\n\nOversaw project coordination for educational and business clients.\n\n\n\n\n\nManaged and coached a team of 10+ to achieve 95%+ customer satisfaction.\n\nLed sales and service initiatives; improved client retention through relationship management.\n\nDelivered consistent year-over-year growth in product adoption."
+  },
+  {
+    "objectID": "resume.html#marketing-manager-freelance-adg-business-academy-2025present",
+    "href": "resume.html#marketing-manager-freelance-adg-business-academy-2025present",
+    "title": "Resume",
+    "section": "",
+    "text": "Specialized in B2B marketing strategies for the education sector.\n\nEnhanced the academy’s online presence through LinkedIn, course promotion, and digital campaigns."
+  },
+  {
+    "objectID": "resume.html#clinical-outreach-coordinator-fraser-cardiology-bc-canada-2024aug-2025",
+    "href": "resume.html#clinical-outreach-coordinator-fraser-cardiology-bc-canada-2024aug-2025",
+    "title": "Resume",
+    "section": "",
+    "text": "Built clinic partnerships and expanded Holter program placements across multiple sites.\n\nLed branding and outreach campaigns to increase patient referrals.\n\nCoordinated community engagement initiatives to strengthen awareness."
+  },
+  {
+    "objectID": "resume.html#senior-project-coordinator-mindscrafts-uk-20232024",
+    "href": "resume.html#senior-project-coordinator-mindscrafts-uk-20232024",
+    "title": "Resume",
+    "section": "",
+    "text": "Managed B2B marketing initiatives for a digital learning platform.\n\nOversaw project coordination for educational and business clients."
+  },
+  {
+    "objectID": "resume.html#customer-service-manager-national-bank-egypt-20102022",
+    "href": "resume.html#customer-service-manager-national-bank-egypt-20102022",
+    "title": "Resume",
+    "section": "",
+    "text": "Managed and coached a team of 10+ to achieve 95%+ customer satisfaction.\n\nLed sales and service initiatives; improved client retention through relationship management.\n\nDelivered consistent year-over-year growth in product adoption."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BG-Website-MBA",
@@ -12,5 +54,33 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Goal: Analyze customer churn in a retail bank to identify at-risk segments.\nProcess:\n- Collected and cleaned transactional data.\n- Performed exploratory data analysis (EDA) and built churn segmentation models.\n- Designed an interactive Tableau dashboard for business users.\nOutcome:\n- Generated an actionable retention plan with prioritized customer lists.\n- Delivered insights that informed customer success strategies.\nProof: (Add a link to your Tableau Public dashboard or screenshot here)\n\n\n\n\nGoal: Develop an advertising campaign for Netflix’s ad-supported streaming tier.\nProcess:\n- Used LLMs (GPT, Claude, Gemini) to brainstorm ad ideas.\n- Rewrote outputs in my own voice, validated with academic sources (APA).\n- Compared different approaches for segmenting ad audiences.\nOutcome:\n- Produced a strategic ad plan grounded in both AI support and academic research.\n- Submitted as part of MBA coursework (2025).\nProof: (Insert link to PDF or Quarto assignment repo if available)\n\n\n\n\nGoal: Evaluate the impact of RFID-based “s"
+  },
+  {
+    "objectID": "projects.html#customer-churn-analysis-tableau",
+    "href": "projects.html#customer-churn-analysis-tableau",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Goal: Analyze customer churn in a retail bank to identify at-risk segments.\nProcess:\n- Collected and cleaned transactional data.\n- Performed exploratory data analysis (EDA) and built churn segmentation models.\n- Designed an interactive Tableau dashboard for business users.\nOutcome:\n- Generated an actionable retention plan with prioritized customer lists.\n- Delivered insights that informed customer success strategies.\nProof: (Add a link to your Tableau Public dashboard or screenshot here)"
+  },
+  {
+    "objectID": "projects.html#netflix-ad-strategy-mba-assignment",
+    "href": "projects.html#netflix-ad-strategy-mba-assignment",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Goal: Develop an advertising campaign for Netflix’s ad-supported streaming tier.\nProcess:\n- Used LLMs (GPT, Claude, Gemini) to brainstorm ad ideas.\n- Rewrote outputs in my own voice, validated with academic sources (APA).\n- Compared different approaches for segmenting ad audiences.\nOutcome:\n- Produced a strategic ad plan grounded in both AI support and academic research.\n- Submitted as part of MBA coursework (2025).\nProof: (Insert link to PDF or Quarto assignment repo if available)"
+  },
+  {
+    "objectID": "projects.html#costco-smart-shelves-iotrfid-risk-plan-value-chain-analysis",
+    "href": "projects.html#costco-smart-shelves-iotrfid-risk-plan-value-chain-analysis",
+    "title": "Projects & Case Studies",
+    "section": "",
+    "text": "Goal: Evaluate the impact of RFID-based “s"
   }
 ]

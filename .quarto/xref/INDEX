@@ -4,5 +4,26 @@
   },
   "about.qmd": {
     "about.html": "ef0e25ea"
+  },
+  "resume.qmd": {
+    "resume.html": "4df81f94"
+  },
+  "projects.qmd": {
+    "projects.html": "43474e49"
+  },
+  "skills.qmd": {
+    "skills.html": "2b8960c7"
+  },
+  "leadership.qmd": {
+    "leadership.html": "393bb067"
+  },
+  "contact.qmd": {
+    "contact.html": "479d80ee"
+  },
+  "reflection.qmd": {
+    "reflection.html": "88856c5d"
+  },
+  "appendix/index.qmd": {
+    "index.html": "4bc003a3"
   }
 }
