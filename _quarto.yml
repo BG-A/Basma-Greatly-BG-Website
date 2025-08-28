@@ -1,50 +1,50 @@
-
 project:
   type: website
-  output-dir: docs
-  resources:
-    - assets/**
-
+  output-dir: docs   # if you're publishing from /docs on GitHub Pages
 website:
   title: "Basma Khaled — MBA Portfolio"
-  site-url: "https://bg-a.github.io/Basma-Greatly-BG-Website/"
-  search: true
+  favicon: img/favicon.png
   navbar:
+    logo: img/logo.png
     left:
-      - text: "Home"
+      - text: Home
         href: index.qmd
-      - text: "About"
+      - text: About
         href: about.qmd
-      - text: "Resume"
+      - text: Resume
         href: resume.qmd
-      - text: "Projects"
+      - text: Projects
         href: projects.qmd
-      - text: "Skills"
+      - text: Skills
         href: skills.qmd
-      - text: "Leadership"
+      - text: Leadership
         href: leadership.qmd
-      - text: "Contact"
+      - text: Contact
         href: contact.qmd
-      - text: "Reflection"
+      - text: Reflection
         href: reflection.qmd
-      - text: "Appendix"
-        href: appendix/index.qmd
+      - text: Appendix
+        href: appendix.qmd
     right:
       - text: "Download CV (PDF)"
-        href: basma-elgreatly-resume/Basma_Khaled_Resume.pdf   # or Appendix.pdf until your CV is ready
+        href: files/Basma-Elgreatly-CV.pdf
       - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+        href: https://www.linkedin.com/in/basma-elgreatly/
       - icon: github
         href: https://github.com/bg-a
-  page-footer:
-    center: "© 2025 Basma Khaled · MBA Portfolio"
-
 format:
   html:
-    theme: cosmo
-    css: site.css
+    theme: 
+      - cosmo
+      - theme/brand-blue.scss
     toc: true
+    page-layout: full
     smooth-scroll: true
     link-external-newwindow: true
+    code-link: false
+    callout-appearance: simple
+execute:
+  freeze: auto
+
 
 
