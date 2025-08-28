@@ -1,19 +1,11 @@
 project:
   type: website
   output-dir: docs
-  render:
-    - index.qmd
-    - about.qmd
-    - resume.qmd
-    - projects.qmd
-    - skills.qmd
-    - leadership.qmd
-    - contact.qmd
-    - reflection.qmd
-    - appendix/index.qmd
 
 website:
   title: "Basma Khaled — MBA Portfolio"
+  site-url: "https://bg-a.github.io/Basma-Greatly-BG-Website/"
+  search: true
   navbar:
     left:
       - text: "Home"
@@ -24,7 +16,7 @@ website:
         href: resume.qmd
       - text: "Projects"
         href: projects.qmd
-      - text: "Skills & Certifications"
+      - text: "Skills"
         href: skills.qmd
       - text: "Leadership"
         href: leadership.qmd
@@ -36,14 +28,22 @@ website:
         href: appendix/index.qmd
     right:
       - text: "Download CV (PDF)"
-        href: Appendix.pdf
-   # change or create this file as noted below
+        href: basma-elgreatly-resume/Basma_Khaled_Resume.pdf   # or Appendix.pdf until your CV is ready
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+      - icon: github
+        href: https://github.com/bg-a
+  page-footer:
+    center: "© 2025 Basma Khaled · MBA Portfolio"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
-    link-external-newwindow: true
     smooth-scroll: true
+    link-external-newwindow: true
+
 
