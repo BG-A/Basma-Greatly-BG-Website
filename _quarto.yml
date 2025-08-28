@@ -1,6 +1,9 @@
+
 project:
   type: website
   output-dir: docs
+  resources:
+    - assets/**
 
 website:
   title: "Basma Khaled — MBA Portfolio"
@@ -38,10 +41,8 @@ website:
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
-    css: styles.css
+    theme: cosmo
+    css: site.css
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
