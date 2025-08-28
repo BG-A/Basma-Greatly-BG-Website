@@ -1,6 +1,15 @@
+
+
 ---
-title: "BG-Website-MBA"
+title: "Home"
+page-layout: full
+format:
+  html:
+    toc: false
 ---
+
+# About Me
+
 format:
 page-layout: full
 theme: cosmo
